@@ -35,7 +35,7 @@ To run NoteNest locally on your machine, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/NoteNest.git
+https://github.com/gduke-k/NoteNest.git
 ```
 
 2. Navigate to the project directory:
@@ -62,6 +62,6 @@ We welcome contributions from anyone interested in improving NoteNest. If you ha
 
 ## Contact
 
-For any inquiries or questions regarding NoteNest, please contact us at gauravkl922@gmail.com. We would be happy to assist you.
+For any inquiries or questions regarding NoteNest, please contact us at [Gmail](gauravkl922@gmail.com).
 
 Thank you for choosing NoteNest! Happy note-taking!
