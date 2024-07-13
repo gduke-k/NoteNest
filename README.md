@@ -28,6 +28,9 @@ Users can prioritize specific notes by pinning them to the top of their note lis
 
 NoteNest makes it effortless for users to find specific notes by implementing a search functionality. Users can enter keywords or phrases related to the note they are looking for, and NoteNest will display the matching results, making it quick and convenient to locate specific information.
 
+## Preview
+You can preview the Note App by visiting Note App [Preview](https://notenest-5efo.onrender.com).
+
 ## Installation
 
 To run NoteNest locally on your machine, follow these steps:
