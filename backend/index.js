@@ -2,7 +2,7 @@ require("dotenv").config();
 
 const mongoose = require("mongoose");
 
-mongoose.connect(URL);
+mongoose.connect(process.env.URL);
 
 const User = require("./models/user.model");
 const Note = require("./models/note.model");
